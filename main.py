@@ -45,5 +45,8 @@
 # print(resultado)
 
 # from funcoes import funcional
-import funcoes.map_reduce
+# import funcoes.map_reduce
+
+# import coercao.coercao_autormatica
+import tipos.numeros
 
